@@ -114,4 +114,5 @@ public class QuizActivity extends AppCompatActivity {
         toast.setGravity(Gravity.CENTER, 0, 0);
         toast.show();
     }
+
 }
